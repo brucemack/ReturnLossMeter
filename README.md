@@ -7,9 +7,9 @@ voltage sample to the A1 analog input.
 
 There are four number shown on the display:
 
-# VSWR
-# Return loss (dB)
-# Forward power (watts)
-# Voltage of forward power sensor (volts)
+1. VSWR
+2. Return loss (dB)
+3. Forward power (watts)
+4. Voltage of forward power sensor (volts)
 
 ![alt text](IMG1.jpg "Working demonstration")
